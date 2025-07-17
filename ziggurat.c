@@ -1,3 +1,10 @@
+/*
+
+ Marsaglia, G., & Tsang, W. W. (2000). The Ziggurat Method for
+ Generating Random Variables. Journal of Statistical Software,
+ 5(8), 1–7. https://doi.org/10.18637/jss.v005.i08
+
+ */
 #include "mt19937ar.h"
 
 #include <stdint.h>
